@@ -11,8 +11,15 @@ If you do not want this you will have to run the scripts mentioned below as root
 
 # Build
 Run the included build script:
+
+``` sh
   ./build.sh
+```
 
 # Run
 Run the included run script:
+
+``` sh
   ./run.sh
+```
+
